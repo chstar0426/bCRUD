@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bCRUD", "bCRUD\bCRUD.csproj", "{191EA58D-2B48-403E-B2A5-54360EB6064D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModels", "DataModels\DataModels.csproj", "{0E8DB441-FF6A-42AD-AECA-E2A6CB25A2E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{191EA58D-2B48-403E-B2A5-54360EB6064D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191EA58D-2B48-403E-B2A5-54360EB6064D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191EA58D-2B48-403E-B2A5-54360EB6064D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191EA58D-2B48-403E-B2A5-54360EB6064D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8DB441-FF6A-42AD-AECA-E2A6CB25A2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8DB441-FF6A-42AD-AECA-E2A6CB25A2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8DB441-FF6A-42AD-AECA-E2A6CB25A2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8DB441-FF6A-42AD-AECA-E2A6CB25A2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF4712C2-532A-4E45-9050-82D6229187C9}
+	EndGlobalSection
+EndGlobal
